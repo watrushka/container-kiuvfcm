@@ -1,3 +1,9 @@
+# v0.0.2 (Fri Jul 26 2024)
+
+
+
+---
+
 # v0.0.1 (Fri Jul 26 2024)
 
 :tada: This release contains work from a new contributor! :tada:
